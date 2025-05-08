@@ -1,2 +1,2 @@
-A place for my Python related works
-\*Python Bootcamp = The Complete Python Bootcamp From Zero to Hero by Jose Portilla/Pierian Training (https://udemy.com/course/complete-python-bootcamp/learn/lecture/9407954#overview)
+A place for my Python related works  
+*Python Bootcamp = The Complete Python Bootcamp From Zero to Hero by Jose Portilla/Pierian Training (https://udemy.com/course/complete-python-bootcamp/learn/lecture/9407954#overview)
